@@ -1,2 +1,4 @@
 # git_test
-git test
+
+Starting the Odin Project Course!
+Hello Odin!
